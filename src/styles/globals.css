@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;400;500;600;900&display=swap');
+
+body {
+  font-family: "Montserrat", sans-serif;
+  
+}
+
+* {
+  padding: 0;
+  box-sizing: border-box;
+  margin: 0;
+}
+
+ul {
+  list-style-type: disc;
+}
